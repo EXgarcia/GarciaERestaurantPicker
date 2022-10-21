@@ -1,0 +1,15 @@
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\bin\Debug\net6.0\GarciaERestaurantPicker.exe
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\bin\Debug\net6.0\GarciaERestaurantPicker.deps.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\bin\Debug\net6.0\GarciaERestaurantPicker.runtimeconfig.json
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\bin\Debug\net6.0\GarciaERestaurantPicker.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\bin\Debug\net6.0\GarciaERestaurantPicker.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\GarciaERestaurantPicker.csproj.AssemblyReference.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\GarciaERestaurantPicker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\GarciaERestaurantPicker.AssemblyInfoInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\GarciaERestaurantPicker.AssemblyInfo.cs
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\GarciaERestaurantPicker.csproj.CoreCompileInputs.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\GarciaERestaurantPicker.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\refint\GarciaERestaurantPicker.dll
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\GarciaERestaurantPicker.pdb
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\GarciaERestaurantPicker.genruntimeconfig.cache
+C:\Users\extur\Documents\leveOne\GitHubChallenge\GarciaERestaurantPicker\obj\Debug\net6.0\ref\GarciaERestaurantPicker.dll
