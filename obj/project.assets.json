@@ -8,19 +8,19 @@
     "net6.0": []
   },
   "packageFolders": {
-    "C:\\Users\\extur\\.nuget\\packages\\": {}
+    "/Users/brandonle/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaERestaurantPicker\\GarciaERestaurantPicker.csproj",
+      "projectUniqueName": "/Users/brandonle/Desktop/GitRepository/GarciaERestaurantPicker/GarciaERestaurantPicker.csproj",
       "projectName": "GarciaERestaurantPicker",
-      "projectPath": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaERestaurantPicker\\GarciaERestaurantPicker.csproj",
-      "packagesPath": "C:\\Users\\extur\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\extur\\Documents\\leveOne\\GitHubChallenge\\GarciaERestaurantPicker\\obj\\",
+      "projectPath": "/Users/brandonle/Desktop/GitRepository/GarciaERestaurantPicker/GarciaERestaurantPicker.csproj",
+      "packagesPath": "/Users/brandonle/.nuget/packages/",
+      "outputPath": "/Users/brandonle/Desktop/GitRepository/GarciaERestaurantPicker/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\extur\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "/Users/brandonle/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
@@ -59,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.400\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.400/RuntimeIdentifierGraph.json"
       }
     }
   }
